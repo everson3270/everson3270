@@ -101,7 +101,7 @@ Possuo experiência prática em consultoria de ERP, desenvolvimento/programaçã
 
 <p align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=everson3270&theme=tokyonight" alt="GitHub Streak" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/report?username=everson3270&theme=tokyonight" alt="Resumo do Perfil" />
+  <img height="165em" src="https://github-readme-stats-eight-vector.vercel.app/api?username=everson3270&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
     
