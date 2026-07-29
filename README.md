@@ -1,10 +1,10 @@
- # 😁 Everson Santos
+# 😁 Everson Santos
 
- **'Desenvolvedor fullStack'**
+**`Desenvolvedor Full Stack`**
 
-Sou um profissional dedicado e versátil, com sólida formação técnica e em constante evolução acadêmica. Com formação em Informática pela Escola Técnica de Brasília (ETB) e atualmente cursando o 6º semestre de Ciência da Computação, combino embasamento teórico e prático para entregar soluções eficientes na área de tecnologia.
+Sou um profissional dedicado e versátil, com sólida formação técnica e em constante evolução acadêmica. Com formação em Informática pela Escola Técnica de Brasília (ETB) e atualmente cursando Ciência da Computação, combino embasamento teórico e prático para entregar soluções eficientes na área de tecnologia.
 
-Possuo experiência prática em consultoria de ERP, desenvolvimento/programação e suporte técnico, destacando-se pela facilidade em compreender as necessidades dos usuários e traduzir demandas complexas em melhorias reais. Atuo diretamente na configuração e otimização de sistemas, automação de processos e suporte de TI, sempre com o objetivo de tornar a tecnologia mais acessível, prática e produtiva no ambiente de trabalho.
+Possuo experiência prática em consultoria de ERP, desenvolvimento/programação e suporte técnico, destacando-me pela facilidade em compreender as necessidades dos usuários e traduzir demandas complexas em melhorias reais. Atuo diretamente na configuração e otimização de sistemas, automação de processos e suporte de TI, sempre com o objetivo de tornar a tecnologia mais acessível, prática e produtiva no ambiente de trabalho.
 
 <p align="left">
    <a href="https://github.com/everson3270?tab=followers">
@@ -25,95 +25,22 @@ Possuo experiência prática em consultoria de ERP, desenvolvimento/programaçã
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-   align="left"
-   alt="HTML"
-   title="HTML"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-   align="left"
-   alt="JAVASCRIPT"
-   title="JAVASCRIPT"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img
-   align="left"
-   alt="CSS"
-   title="CSS"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-   align="left"
-   alt="Mysql"
-   title="Mysql"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img
-   align="left"
-   alt="PHP"
-   title="PHP"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img
-   align="left"
-   alt="FIRE"
-   title="FIRE"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
-/>
-<img
-   align="left"
-   alt="GITHUB"
-   title="GITHUB"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-/>
-<img
-   align="left"
-   alt="NETBEANS"
-   title="NETBEANS"
-   width="30px"
-   style="margin-right: 12px; margin-bottom: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" 
-/>
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PHP" title="PHP" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="Firebase" title="Firebase" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="NetBeans" title="NetBeans" width="30" style="margin-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
+</p>
 
-<br clear="left"/>
-
-<br/>
-<br/>
-
-
+---
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=everson3270&theme=tokyonight" alt="GitHub Streak" />
-  <img height="165em" src="https://github-readme-stats-eight-vector.vercel.app/api?username=everson3270&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=everson3270&theme=tokyonight" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=everson3270&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
-
-    
-
-          
-
-
-
-
-
-
-
-
-
-
