@@ -95,11 +95,13 @@ Possuo experiência prática em consultoria de ERP, desenvolvimento/programaçã
 <br/>
 <br/>
 
+
+
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api?username=everson3270&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats-git-masterrst-anuraghazras-projects.vercel.app/api/top-langs/?username=everson3270&layout=compact&theme=dark&locale=pt-br&cache_seconds=1800" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=everson3270&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everson3270&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
     
